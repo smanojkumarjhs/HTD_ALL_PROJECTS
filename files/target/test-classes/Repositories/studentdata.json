@@ -1,0 +1,16 @@
+{
+  "student": {
+    "name": "John Doe",
+    "age": 20,
+    "subjects": [
+      {
+        "subject": "Mathematics",
+        "teacher": "Mr. Smith"
+      },
+      {
+        "subject": "Science",
+        "teacher": "Ms. Johnson"
+      }
+    ]
+  }
+}

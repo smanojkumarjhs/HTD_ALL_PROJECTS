@@ -1,0 +1,52 @@
+[ {
+  "name" : "EFGH",
+  "age" : 12,
+  "mbNo" : 9877877,
+  "addr" : [ {
+    "streeName" : "BTM",
+    "completeAddr" : "Residential ",
+    "pincode" : 12345
+  }, {
+    "streeName" : "HSR",
+    "completeAddr" : " Permanant",
+    "pincode" : 1213345
+  }, {
+    "streeName" : "Indiranager",
+    "completeAddr" : " Permanant",
+    "pincode" : 1213345
+  } ]
+}, {
+  "name" : "EFGH",
+  "age" : 12,
+  "mbNo" : 9877877,
+  "addr" : [ {
+    "streeName" : "BTM",
+    "completeAddr" : "Residential ",
+    "pincode" : 12345
+  }, {
+    "streeName" : "HSR",
+    "completeAddr" : " Permanant",
+    "pincode" : 1213345
+  }, {
+    "streeName" : "Indiranager",
+    "completeAddr" : " Permanant",
+    "pincode" : 1213345
+  } ]
+}, {
+  "name" : "ABCD",
+  "age" : 10,
+  "mbNo" : 1243655234,
+  "addr" : [ {
+    "streeName" : "BTM",
+    "completeAddr" : "Residential ",
+    "pincode" : 12345
+  }, {
+    "streeName" : "HSR",
+    "completeAddr" : " Permanant",
+    "pincode" : 1213345
+  }, {
+    "streeName" : "Indiranager",
+    "completeAddr" : " Permanant",
+    "pincode" : 1213345
+  } ]
+} ]
