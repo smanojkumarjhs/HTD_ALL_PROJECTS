@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[chrome browser got launched ]]>
+    </line>
+    <line>
+      <![CDATA[chrome browser got launched ]]>
+    </line>
+    <line>
+      <![CDATA[chrome browser got launched ]]>
+    </line>
+    <line>
+      <![CDATA[chrome browser got launched ]]>
+    </line>
+    <line>
+      <![CDATA[chrome browser got launched ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-12-09T17:18:42 IST" name="SystemSuite" finished-at="2024-12-09T17:20:10 IST" duration-ms="88011">
+    <groups>
+    </groups>
+    <test started-at="2024-12-09T17:18:42 IST" name="SystemTest" finished-at="2024-12-09T17:20:10 IST" duration-ms="88011">
+      <class name="OrangeHRM.leave.ApplyForLeaveTest">
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:OrangeHRM.leave.ApplyForLeaveTest@1bb5a082]" started-at="2024-12-09T17:19:36 IST" name="beforeClassConfiguration" finished-at="2024-12-09T17:19:40 IST" duration-ms="3319" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome browser got launched ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:OrangeHRM.leave.ApplyForLeaveTest@1bb5a082]" started-at="2024-12-09T17:19:40 IST" name="beforeMethodConfiguration" finished-at="2024-12-09T17:19:41 IST" duration-ms="1649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="toApplyForLeave()[pri:0, instance:OrangeHRM.leave.ApplyForLeaveTest@1bb5a082]" started-at="2024-12-09T17:19:41 IST" name="toApplyForLeave" finished-at="2024-12-09T17:19:57 IST" duration-ms="15528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toApplyForLeave -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:OrangeHRM.leave.ApplyForLeaveTest@1bb5a082]" started-at="2024-12-09T17:19:57 IST" name="afterMethodConfiguration" finished-at="2024-12-09T17:19:58 IST" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="afterClassconfiguration()[pri:0, instance:OrangeHRM.leave.ApplyForLeaveTest@1bb5a082]" started-at="2024-12-09T17:19:58 IST" name="afterClassconfiguration" finished-at="2024-12-09T17:19:58 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassconfiguration -->
+      </class> <!-- OrangeHRM.leave.ApplyForLeaveTest -->
+      <class name="OrangeHRM.leave.SearchForLeaveTest">
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:OrangeHRM.leave.SearchForLeaveTest@78691363]" started-at="2024-12-09T17:19:58 IST" name="beforeClassConfiguration" finished-at="2024-12-09T17:20:02 IST" duration-ms="3555" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome browser got launched ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:OrangeHRM.leave.SearchForLeaveTest@78691363]" started-at="2024-12-09T17:20:02 IST" name="beforeMethodConfiguration" finished-at="2024-12-09T17:20:04 IST" duration-ms="1661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="toSearchForLeave()[pri:0, instance:OrangeHRM.leave.SearchForLeaveTest@78691363]" started-at="2024-12-09T17:20:04 IST" name="toSearchForLeave" finished-at="2024-12-09T17:20:08 IST" duration-ms="4938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toSearchForLeave -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:OrangeHRM.leave.SearchForLeaveTest@78691363]" started-at="2024-12-09T17:20:08 IST" name="afterMethodConfiguration" finished-at="2024-12-09T17:20:09 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="afterClassconfiguration()[pri:0, instance:OrangeHRM.leave.SearchForLeaveTest@78691363]" started-at="2024-12-09T17:20:09 IST" name="afterClassconfiguration" finished-at="2024-12-09T17:20:10 IST" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassconfiguration -->
+      </class> <!-- OrangeHRM.leave.SearchForLeaveTest -->
+      <class name="OrangeHRM.leave.SearchEmployeeEntitlementsTest">
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:OrangeHRM.leave.SearchEmployeeEntitlementsTest@65fb9ffc]" started-at="2024-12-09T17:19:16 IST" name="beforeClassConfiguration" finished-at="2024-12-09T17:19:20 IST" duration-ms="3969" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome browser got launched ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:OrangeHRM.leave.SearchEmployeeEntitlementsTest@65fb9ffc]" started-at="2024-12-09T17:19:20 IST" name="beforeMethodConfiguration" finished-at="2024-12-09T17:19:21 IST" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="toSearchEmployeeEntitlements()[pri:0, instance:OrangeHRM.leave.SearchEmployeeEntitlementsTest@65fb9ffc]" started-at="2024-12-09T17:19:21 IST" name="toSearchEmployeeEntitlements" finished-at="2024-12-09T17:19:25 IST" duration-ms="4368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toSearchEmployeeEntitlements -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:OrangeHRM.leave.SearchEmployeeEntitlementsTest@65fb9ffc]" started-at="2024-12-09T17:19:25 IST" name="afterMethodConfiguration" finished-at="2024-12-09T17:19:26 IST" duration-ms="1309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="afterClassconfiguration()[pri:0, instance:OrangeHRM.leave.SearchEmployeeEntitlementsTest@65fb9ffc]" started-at="2024-12-09T17:19:26 IST" name="afterClassconfiguration" finished-at="2024-12-09T17:19:27 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassconfiguration -->
+      </class> <!-- OrangeHRM.leave.SearchEmployeeEntitlementsTest -->
+      <class name="OrangeHRM.leave.MyEntitlementsTest">
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:OrangeHRM.leave.MyEntitlementsTest@3e694b3f]" started-at="2024-12-09T17:19:27 IST" name="beforeClassConfiguration" finished-at="2024-12-09T17:19:30 IST" duration-ms="3757" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome browser got launched ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:OrangeHRM.leave.MyEntitlementsTest@3e694b3f]" started-at="2024-12-09T17:19:30 IST" name="beforeMethodConfiguration" finished-at="2024-12-09T17:19:32 IST" duration-ms="1610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="toSeeMyEntitlements()[pri:0, instance:OrangeHRM.leave.MyEntitlementsTest@3e694b3f]" started-at="2024-12-09T17:19:32 IST" name="toSeeMyEntitlements" finished-at="2024-12-09T17:19:35 IST" duration-ms="3274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toSeeMyEntitlements -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:OrangeHRM.leave.MyEntitlementsTest@3e694b3f]" started-at="2024-12-09T17:19:35 IST" name="afterMethodConfiguration" finished-at="2024-12-09T17:19:36 IST" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="afterClassconfiguration()[pri:0, instance:OrangeHRM.leave.MyEntitlementsTest@3e694b3f]" started-at="2024-12-09T17:19:36 IST" name="afterClassconfiguration" finished-at="2024-12-09T17:19:36 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassconfiguration -->
+      </class> <!-- OrangeHRM.leave.MyEntitlementsTest -->
+      <class name="OrangeHRM.leave.AddEntitlementTest">
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:OrangeHRM.leave.AddEntitlementTest@76505305]" started-at="2024-12-09T17:18:42 IST" name="beforeClassConfiguration" finished-at="2024-12-09T17:18:55 IST" duration-ms="13020" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome browser got launched ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:OrangeHRM.leave.AddEntitlementTest@76505305]" started-at="2024-12-09T17:18:55 IST" name="beforeMethodConfiguration" finished-at="2024-12-09T17:18:57 IST" duration-ms="2665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="toAddEntitlements()[pri:0, instance:OrangeHRM.leave.AddEntitlementTest@76505305]" started-at="2024-12-09T17:18:57 IST" name="toAddEntitlements" finished-at="2024-12-09T17:19:15 IST" duration-ms="17467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toAddEntitlements -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:OrangeHRM.leave.AddEntitlementTest@76505305]" started-at="2024-12-09T17:19:15 IST" name="afterMethodConfiguration" finished-at="2024-12-09T17:19:16 IST" duration-ms="1342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="afterClassconfiguration()[pri:0, instance:OrangeHRM.leave.AddEntitlementTest@76505305]" started-at="2024-12-09T17:19:16 IST" name="afterClassconfiguration" finished-at="2024-12-09T17:19:16 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassconfiguration -->
+      </class> <!-- OrangeHRM.leave.AddEntitlementTest -->
+    </test> <!-- SystemTest -->
+  </suite> <!-- SystemSuite -->
+</testng-results>

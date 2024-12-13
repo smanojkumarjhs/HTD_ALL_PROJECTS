@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SystemSuite">
+  <test thread-count="5" name="SystemTest">
+    <classes>
+      <class name="OrangeHRM.leave.AddEntitlementTest"/>
+      <class name="OrangeHRM.leave.SearchEmployeeEntitlementsTest"/>
+      <class name="OrangeHRM.leave.MyEntitlementsTest"/>
+      <class name="OrangeHRM.leave.ApplyForLeaveTest"/>
+      <class name="OrangeHRM.leave.SearchForLeaveTest"/>
+    </classes>
+  </test> <!-- SystemTest -->
+</suite> <!-- SystemSuite -->
